@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" width="120" alt="OPT LOL">
-</p>
-
 <h1 align="center">OPT LOL</h1>
 <p align="center"><b>Tu coach en la selección de campeones de League of Legends.</b><br>
 Qué banear, con quién jugar y qué build llevar. Con su porqué, y pensado para ti, no para el jugador medio.</p>
